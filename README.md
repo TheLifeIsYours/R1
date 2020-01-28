@@ -1,10 +1,10 @@
 
-# Matte Notater #
+# Matte Notater
 
-## Algebra ##
+## Algebra
 
-#### $abc$ formelen ####
-#### $\frac{b\plusmn\times(\sqrt{b^2-4*a*c})}{2\times a}$ ####
+#### $abc$ formelen
+#### $\frac{b\plusmn\times(\sqrt{b^2-4*a*c})}{2\times a}$
 
 $
     x^2-13x+12 = \frac{-13\plusmn\times(\sqrt{-13^2-4*1*12})}{2\times 1}
@@ -22,7 +22,7 @@ $
     =\frac{-13\plusmn\times2}{2}
 $
 
-### Polynom divisjon ###
+### Polynom divisjon
 
 $
     x^2-13x+12:x-1
@@ -54,7 +54,7 @@ $
     = -12x+12
 $
 
-###Polynomdivisjonsteoremet
+### Polynomdivisjonsteoremet
 
 $
     (x^2+3x-7):(x-2) = x+5
